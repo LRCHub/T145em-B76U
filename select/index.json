@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "C'mon, C'mon",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:25:33.893866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C'mon! C'mon!",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/01_C'mon!_C'mon!_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "C'mon! C'mon! - 12\" Version",
+      "artist": "Bronski Beat",
+      "has_synced": false,
+      "path": "select/02_C'mon!_C'mon!_-_12__Version_Bronski_Beat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "C'mon C'mon",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/03_C'mon_C'mon_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C’mon C’mon",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/04_C’mon_C’mon_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "C'mon C'mon",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/05_C'mon_C'mon_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "C'mon, C'mon",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/06_C'mon,_C'mon_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "C'Mon C'Mon C'Mon",
+      "artist": "Bryan Adams",
+      "has_synced": true,
+      "path": "select/07_C'Mon_C'Mon_C'Mon_Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "C'mon, C'mon",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/08_C'mon,_C'mon_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "More to Life (C'mon C'mon)",
+      "artist": "Jace Everett",
+      "has_synced": true,
+      "path": "select/09_More_to_Life_(C'mon_C'mon)_Jace_Everett.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "C'mon, C'mon (feat. The Corrs)",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/10_C'mon,_C'mon_(feat._The_Corrs)_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "C'mon C'mon",
+      "artist": "The Von Bondies",
+      "has_synced": true,
+      "path": "select/11_C'mon_C'mon_The_Von_Bondies.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cmon Cmon",
+      "artist": "The Von Bondies",
+      "has_synced": true,
+      "path": "select/12_Cmon_Cmon_The_Von_Bondies.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "C'mon C'mon",
+      "artist": "Von Bondies",
+      "has_synced": true,
+      "path": "select/13_C'mon_C'mon_Von_Bondies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "C'mon, C'mon",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_C'mon,_C'mon_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "C'mon C'mon",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/15_C'mon_C'mon_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "C'mon C'mon (We're Gonna Get It Started)",
+      "artist": "Sloan",
+      "has_synced": true,
+      "path": "select/16_C'mon_C'mon_(We're_Gonna_Get_It_Started)_Sloan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "C'mon C'mon",
+      "artist": "The Von Bondies",
+      "has_synced": true,
+      "path": "select/17_C'mon_C'mon_The_Von_Bondies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "C'mon, C'mon",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_C'mon,_C'mon_One_Direction.txt"
+    }
+  ]
+}
